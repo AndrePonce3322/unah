@@ -40,7 +40,7 @@ export default function ExtensionesAutocompletado() {
       </ul>
 
       <p>
-        Ya instalado tenemos que crear una carpeta llamada `tailwind.config.js` y pegar este código dentro de la carpeta:
+        Ya instalado tenemos que crear una carpeta llamada &apos;tailwind.config.js&apos; y pegar este código dentro de la carpeta:
       </p>
       <SyntaxHigh code={code} lang="typescript" />
 

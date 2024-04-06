@@ -41,7 +41,7 @@ export default function End() {
     </div>
 
     <div className="absolute bottom-8 right-14">
-      Desarrollada por {'<André />'}
+      Desarrollada por {'<Andre />'}
     </div>
 
     <footer className="z-10 absolute bottom-8 left-12">

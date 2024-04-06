@@ -38,7 +38,7 @@ export default function ComponentesTailwind() {
               <time className="mb-1 text-xs font-normal text-gray-400 sm:order-last sm:mb-0">2 hours ago</time>
               <div className="text-sm font-normal text-gray-500 lex dark:text-gray-300">Thomas Lean commented on  <a href="#" className="font-semibold text-gray-900 dark:text-white hover:underline">Flowbite Pro</a></div>
             </div>
-            <div className="p-3 text-xs italic font-normal text-gray-500 border border-gray-200 rounded-lg bg-gray-50 dark:bg-gray-600 dark:border-gray-500 dark:text-gray-300">Hi ya'll! I wanted to share a webinar zeroheight is having regarding how to best measure your design system! This is the second session of our new webinar series on #DesignSystems discussions where we'll be speaking about Measurement.</div>
+            <div className="p-3 text-xs italic font-normal text-gray-500 border border-gray-200 rounded-lg bg-gray-50 dark:bg-gray-600 dark:border-gray-500 dark:text-gray-300">Hi ya&apos;ll! I wanted to share a webinar zeroheight is having regarding how to best measure your design system! This is the second session of our new webinar series on #DesignSystems discussions where we&apos;ll be speaking about Measurement.</div>
           </div>
         </li>
         <li className="ms-6">
@@ -63,6 +63,7 @@ export default function ComponentesTailwind() {
 
     <p>Para conseguir todos esos componentes y más, tienes la página oficial llamada Flowbite, este es el enlace:
       <a href="https://flowbite.com" target="_blank" className="underline text-blue-500 cursor-pointer ml-1">https://flowbite.com/</a>
+      ahí encontraras todos los componentes que los podrás copiar y pegar.
     </p>
 
     <footer className="z-10 w-full flex justify-between mt-3">
