@@ -12,7 +12,7 @@ export default function End() {
     confetti({
       particleCount: 250,
       spread: 300,
-      origin: { y: 0.6 }
+      origin: { y: 0.2 }
     });
   }, [])
 
@@ -41,7 +41,7 @@ export default function End() {
     </div>
 
     <div className="absolute bottom-8 right-14">
-      Desarrollada por {'<Andre />'}
+      Desarrollada por {'<André />'}
     </div>
 
     <footer className="z-10 absolute bottom-8 left-12">
