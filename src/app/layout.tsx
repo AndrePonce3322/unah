@@ -17,11 +17,8 @@ export default function RootLayout({
   return (
     <html lang="es">
       <body className={inter.className}>
-        {/* <div className="bg-[url('https://tailwindcss.com/_next/static/media/hero@75.b2469a49.jpg')] inset-0 absolute bg-bottom bg-no-repeat" ></div> */}
         {children}
       </body>
-
-
     </html>
   );
 }
