@@ -35,7 +35,7 @@ export default function End() {
       </div>
     </div>
 
-    <div className="absolute bottom-8 right-14">
+    <div className="hidden md:absolute bottom-8 right-14">
       Desarrollada por {'<André />'}
     </div>
 

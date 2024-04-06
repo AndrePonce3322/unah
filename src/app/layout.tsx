@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   title: "TailwindCSS - Introducción · UNAH @andreponce",
   description: "Aprende TailwindCSS con ejemplos prácticos",
   icons: ['/favicon.ico'],
-  creator: "Andre Ponce"
+  creator: "Andre Ponce",
 };
 
 export default function RootLayout({

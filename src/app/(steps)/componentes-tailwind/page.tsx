@@ -67,7 +67,7 @@ export default function ComponentesTailwind() {
     </p>
 
     <footer className="z-10 w-full flex justify-between mt-3">
-      <Link href="/componentes-tailwind">
+      <Link href="/clases-basicas">
         <button className="p-4 bg-zinc-900 text-white rounded-lg">
           Anterior
         </button>
