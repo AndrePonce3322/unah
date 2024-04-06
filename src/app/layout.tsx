@@ -5,8 +5,10 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "TailwindCSS - Introduction · UNAH",
+  title: "TailwindCSS - Introducción · UNAH @andreponce",
   description: "Aprende TailwindCSS con ejemplos prácticos",
+  icons: ['/favicon.ico'],
+  creator: "Andre Ponce"
 };
 
 export default function RootLayout({
