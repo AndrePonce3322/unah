@@ -18,7 +18,7 @@ export default function IntegrarTailwind() {
     <>
       <div>
         <Title>
-          ¿Cómo integrar TailwindCSS en nuestra página web?
+          ¿Cómo integrar Tailwind en nuestra página web?
         </Title>
         <p className="mt-2">Para agregar Tailwind en nuestra página web es tan simple como agregar esta línea en nuestro archivo HTML:
           <span className='text-xs p-1 ml-2 px-3 bg-[#efecf4] rounded-lg select-all'>{`<script src="https://cdn.tailwindcss.com"></script>`}</span>

@@ -23,7 +23,7 @@ export default function ClasesBasicas() {
     <div className="flex flex-col gap-4 h-full">
       <header>
         <Title>
-          Clases más comunes de TailwindCSS
+          Clases más comunes de Tailwind
         </Title>
         <p className="mt-2">Todas las clases de Tailwind se encuentran en su página oficial <a target="_blank" className="underline text-blue-500" href="https://tailwindcss.com">https://tailwindcss.com</a> como son muchas solo vamos a ver las básicas.</p>
       </header>

@@ -7,4 +7,4 @@ export default function Steps({ children }: { children: React.ReactNode }) {
       </section>
     </main>
   </>;
-}
+} 
