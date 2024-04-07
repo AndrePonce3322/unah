@@ -25,7 +25,7 @@ export default function Home() {
       </div>
 
       <footer className="z-10 absolute bottom-8 right-12">
-        <Link href="/integrar-tailwind">
+        <Link href="/tailwind">
           <button className="p-4 bg-zinc-900 text-white rounded-lg">
             Siguiente
           </button>

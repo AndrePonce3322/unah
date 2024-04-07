@@ -36,7 +36,7 @@ export default function IntegrarTailwind() {
       </div>
 
       <footer className="z-10 w-full flex justify-between mt-12">
-        <Link href="/">
+        <Link href="/tailwind">
           <button className="p-4 bg-zinc-900 text-white rounded-lg">
             Anterior
           </button>
